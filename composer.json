@@ -1,0 +1,13 @@
+{
+    "name": "sergey/tasks",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "app\\": "app/",
+            "core\\": "core/"
+        }
+    },
+    "require": {
+        "twitter/bootstrap": "^5.1"
+    }
+}
